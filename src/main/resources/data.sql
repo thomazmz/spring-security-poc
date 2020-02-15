@@ -1,0 +1,2 @@
+INSERT INTO application_user (roles, active, password, username) VALUES ('ROLE_ADMIN', true, 'pass', 'admin');
+INSERT INTO application_user (roles, active, password, username) VALUES ('ROLE_USER', true, 'pass', 'user');
